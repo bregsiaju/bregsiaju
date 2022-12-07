@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @bregsiaju
-- 👀 I’m interested in software / web development and machine learning
-- 🌱 I’m currently learning JavaScript - Back-end Engineering
+- 👋 Hi, I’m Bregsi
+- 👀 I’m interested in software / web development
+- 🌱 I’m currently learning JavaScript - Fullstack Web Development
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me? Reach me on linkedin / instagram @bregsiaju
+- 📫 Reach me on linkedin / instagram @bregsiaju
+- 🦊 My portfolio on the [Gitlab](https://gitlab.com/bregsiaju)
 
 <!---
 bregsiaju/bregsiaju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
