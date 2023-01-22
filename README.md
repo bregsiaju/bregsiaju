@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bregsi
-- 👀 I’m interested in software / web development
+- 👀 I’m interested in software / web development / machine learning 
 - 🌱 I’m currently learning JavaScript - Fullstack Web Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me on linkedin / instagram @bregsiaju
